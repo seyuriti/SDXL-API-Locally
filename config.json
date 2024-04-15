@@ -4,5 +4,8 @@
   },
   "sdxl-xl": {
     "pretrained-name": "stabilityai/stable-diffusion-xl-base-1.0"
+  },
+  "refiner": {
+    "pretrained-name": "stabilityai/stable-diffusion-xl-refiner-1.0"
   }
 }
